@@ -1,0 +1,8 @@
+vendor
+composer.phar
+composer.lock
+config/config.ini
+demos/*.dem*
+logs/*
+.idea/
+node_modules
